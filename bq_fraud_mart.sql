@@ -1,0 +1,1 @@
+select * from fact_transactions where fraud_flag='Y';
